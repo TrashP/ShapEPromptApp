@@ -1,0 +1,12 @@
+# Visual Studio files
+bin/
+obj/
+*.suo
+*.user
+*.sln.docstates
+*.cache
+*.pdb
+*.tlog
+*.log
+*.bak
+*.vs/
